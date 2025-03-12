@@ -13,3 +13,5 @@ def table_read(filename):
 #main block
 if __name__ == "__main__":
     table_read("table.txt")
+
+#NOTE: you'd need tp create other ".txt" file name it as "table.txt", and write something in it-
