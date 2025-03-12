@@ -1,0 +1,7 @@
+S.no    Name            Roll no.
+ 1     Bhasker        CSC-23F-001
+ 2     Nadeem         CSC-23F-002
+ 3     Mehtab         CSC-23F-003
+ 4     Abdul Qadir    CSC-23F-004
+ 5     Zaheer	      CSC-23F-005
+ 6     Parkash        CSC-23F-006
